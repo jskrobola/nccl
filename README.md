@@ -1,5 +1,6 @@
 # NCCL
 
+
 Optimized primitives for inter-GPU communication.
 
 ## Introduction
